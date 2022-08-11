@@ -1,0 +1,399 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Alegreya&display=swap" rel="stylesheet" /></head><body><div class="v210_173"><div class="v210_174"><div class="v210_175"><div class="v210_176"></div><div class="v210_177"></div></div><div class="v210_178"><span class="v210_179">Estr. p/ Boa Esperança, km 04 - DV </span><div class="v210_180"></div></div><div class="v210_181"><span class="v210_182">SOBRE NÓS</span><span class="v210_183">APOIE</span><div class="v210_184"></div><div class="v210_185"></div></div><div class="v210_186"></div><div class="v210_187"></div></div><div class="v210_188"><div class="v210_189"></div><span class="v210_190">Copyright 2022 - Museu Regional da Agricultura. Todos os direitos reservados.</span><div class="v210_191"></div><div class="v210_192"></div><div class="v210_193"></div></div><div class="v210_194"><div class="name"></div><span class="v210_196">Qualquer contribuinte (pessoa física) que recolha Imposto de Renda pelo modelo completo da declaração pode incentivar um projeto autorizado pela Lei Rouanet, desde que não seja afiliada à instituição que receberá o patrocínio ou doação. O patrocinador pode optar por doar até 6% do valor que paga de IR e deduzir 100% do valor doado.</span><span class="v210_197">Pessoa Física</span></div><div class="v210_198"><div class="name"></div><span class="v210_200">A dedução é feita no momento do pagamento do imposto. Ao apurar o imposto devido, a empresa opta por aplicar parte do imposto e deposita o valor para um determinado projeto, como doação ou patrocínio. Desta forma a empresa direciona até 4% do que pagaria à União em forma de parcela de doação ou patrocínio, e subtrai o valor do imposto apurado que recolhe para a União, por meio de Darf, apenas o imposto devido após a dedução do incentivo.</span><span class="v210_201">Pessoa Jurídica</span></div><div class="v210_202"><span class="v210_203">Veja mais em:</span></div><div class="v210_204"></div><div class="v210_205"></div><div class="v210_206"></div></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v210_173 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_174 {
+  width: 100%;
+  height: 130px;
+  background: url("../images/v210_174.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_175 {
+  width: 100%;
+  height: 130px;
+  background: url("../images/v210_175.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_176 {
+  width: 100%;
+  height: 109px;
+  background: linear-gradient(rgba(251,209,77,0.8299999833106995), rgba(254,173,17,1));
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_177 {
+  width: 260px;
+  height: 130px;
+  background: url("../images/v210_177.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 124px;
+  overflow: hidden;
+}
+.v210_178 {
+  width: 385px;
+  height: 28px;
+  background: url("../images/v210_178.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 36px;
+  left: 864px;
+  overflow: hidden;
+}
+.v210_179 {
+  width: 358px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 3px;
+  left: 27px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_180 {
+  width: 22px;
+  height: 28px;
+  background: rgba(98,50,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.v210_181 {
+  width: 170px;
+  height: 22px;
+  background: url("../images/v210_181.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 89px;
+  left: 1124px;
+  overflow: hidden;
+}
+.v210_182 {
+  width: 83px;
+  color: rgba(98,50,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_183 {
+  width: 45px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 0px;
+  left: 117px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_184 {
+  width: 8px;
+  height: 4px;
+  background: url("../images/v210_184.png");
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 166px;
+  border: 1.5px solid rgba(98,50,0,1);
+  transform: rotate(-90deg);
+}
+.v210_185 {
+  width: 8px;
+  height: 4px;
+  background: url("../images/v210_185.png");
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 90px;
+  border: 1.5px solid rgba(98,50,0,1);
+  transform: rotate(-89deg);
+}
+.v210_186 {
+  width: 30px;
+  height: 30px;
+  background: rgba(98,50,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 1200px;
+}
+.v210_187 {
+  width: 40px;
+  height: 30px;
+  background: rgba(98,50,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 31px;
+  left: 1257px;
+}
+.v210_188 {
+  width: 100%;
+  height: 157px;
+  background: url("../images/v210_188.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 867px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_189 {
+  width: 100%;
+  height: 157px;
+  background: rgba(254,173,17,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_190 {
+  width: 778px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 114px;
+  left: 342px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_191 {
+  width: 145px;
+  height: 60px;
+  background: url("../images/v210_191.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 333px;
+  overflow: hidden;
+}
+.v210_192 {
+  width: 171px;
+  height: 51px;
+  background: url("../images/v210_192.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 342px;
+  overflow: hidden;
+}
+.v210_193 {
+  width: 299px;
+  height: 51px;
+  background: url("../images/v210_193.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 800px;
+  overflow: hidden;
+}
+.v210_194 {
+  width: 363px;
+  height: 312px;
+  background: url("../images/v210_194.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 204px;
+  left: 235px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v210_196 {
+  width: 363px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 57px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: justified;
+}
+.v210_197 {
+  width: 132px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Bold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_198 {
+  width: 370px;
+  height: 302px;
+  background: url("../images/v210_198.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 516px;
+  left: 235px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v210_200 {
+  width: 370px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 68px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: justified;
+}
+.v210_201 {
+  width: 133px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Bold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_202 {
+  width: 137px;
+  height: 33px;
+  background: url("../images/v210_202.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 219px;
+  left: 740px;
+  overflow: hidden;
+}
+.v210_203 {
+  width: 137px;
+  color: rgba(98,50,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_204 {
+  width: 506px;
+  height: 252px;
+  background: url("../images/v210_204.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 311px;
+  left: 729px;
+  overflow: hidden;
+}
+.v210_205 {
+  width: 86px;
+  height: 91px;
+  background: url("../images/v210_205.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 402px;
+  left: 939px;
+  border-top-left-radius: 277px;
+  border-top-right-radius: 277px;
+  border-bottom-left-radius: 277px;
+  border-bottom-right-radius: 277px;
+  overflow: hidden;
+}
+.v210_206 {
+  width: 252px;
+  height: 99px;
+  background: url("../images/v210_206.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 882px;
+  left: 883px;
+  overflow: hidden;
+}
+</style>
