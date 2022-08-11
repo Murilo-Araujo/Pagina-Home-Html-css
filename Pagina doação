@@ -1,0 +1,405 @@
+<!DOCTYPE html><html><head><link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Alegreya&display=swap" rel="stylesheet" /></head><body><div class="v210_248"><div class="v210_249"><div class="v210_250"><div class="v210_251"></div><div class="v210_252"></div><div class="v210_253"></div></div><div class="v210_254"><span class="v210_255">Estr. p/ Boa Esperança, km 04 - DV </span><div class="v210_256"></div></div><div class="v210_257"><span class="v210_258">SOBRE NÓS</span><span class="v210_259">APOIE</span><div class="v210_260"></div><div class="v210_261"></div></div><div class="v210_262"></div><div class="v210_263"></div></div><div class="v210_264"><div class="v210_265"></div><span class="v210_266">Copyright 2022 - Museu Regional da Agricultura. Todos os direitos reservados.</span><div class="v210_267"></div><div class="v210_268"></div><div class="v210_269"></div></div><div class="v210_270"><span class="v210_271">UTFPR - Dois Vizinhos</span><div class="name"></div></div><div class="v210_273"></div><span class="v210_274">O Campus Dois Vizinhos é resultado de inúmeros esforços da comunidade Sudoestina. Na década de 70, representantes políticos, comunitários e com o apoio do conjunto da população, que mais tarde viria se constituir na Associação dos Municípios do Sudoeste do Paraná - AMSOP, buscavam materializar a ideia de construir o que seria a primeira Escola Agrotécnica Federal (EAF) do Estado. O Sudoeste do Paraná conta com uma população aproximada em 600 mil habitantes, de economia voltada ao setor primário, composto basicamente pelo minifúndio, a exemplo do Oeste Catarinense e Paranaense. A busca desta Escola se tornou uma persecução contínua na vida do Sudoeste do Paraná e especialmente no município de Dois Vizinhos.
+</span><div class="v210_275"><div class="v210_276"><span class="v210_277">Museu Regional da Agricultura</span><div class="name"></div></div><span class="v210_279">A finalização do Plano Museológico, está prevista para setembro de 2022, quando serão apresentados todos os projetos previstos, incluindo o arquitetônico, gestão, educativo, acessibilidade, segurança, dentre outros. Será constituído na UTFPR Campus Dois Vizinhos, por meio de termo de cooperação a ser firmado entre a universidade e a Associação de Amigos, que irá apoiar a implantação e a manutenção. O ato de criação do Museu será remetido ao Conselho Universitário nos próximos dias. O projeto é conhecido pelas instâncias de gestão da universidade (reitor, pró-reitores, diretores de campus) e também pelas instancias internas do campus em que o projeto será implantado.</span></div><div class="v210_280"></div><div class="v210_281"></div></div></body></html> <br/><br/> <style>* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v210_248 {
+  width: 100%;
+  height: 1024px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_249 {
+  width: 100%;
+  height: 149px;
+  background: url("../images/v210_249.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_250 {
+  width: 100%;
+  height: 149px;
+  background: url("../images/v210_250.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_251 {
+  width: 100%;
+  height: 109px;
+  background: linear-gradient(rgba(251,209,77,0.8299999833106995), rgba(254,173,17,1));
+  opacity: 1;
+  position: absolute;
+  top: 19px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_252 {
+  width: 316px;
+  height: 149px;
+  background: url("../images/v210_252.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 135px;
+  overflow: hidden;
+}
+.v210_253 {
+  width: 260px;
+  height: 130px;
+  background: url("../images/v210_253.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 124px;
+  overflow: hidden;
+}
+.v210_254 {
+  width: 385px;
+  height: 28px;
+  background: url("../images/v210_254.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 45px;
+  left: 864px;
+  overflow: hidden;
+}
+.v210_255 {
+  width: 358px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 3px;
+  left: 27px;
+  font-family: Lato;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_256 {
+  width: 22px;
+  height: 28px;
+  background: rgba(98,50,0,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+.v210_257 {
+  width: 170px;
+  height: 22px;
+  background: url("../images/v210_257.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  left: 1124px;
+  overflow: hidden;
+}
+.v210_258 {
+  width: 83px;
+  color: rgba(98,50,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_259 {
+  width: 45px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 0px;
+  left: 117px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_260 {
+  width: 8px;
+  height: 4px;
+  background: url("../images/v210_260.png");
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 166px;
+  border: 1.5px solid rgba(98,50,0,1);
+  transform: rotate(-90deg);
+}
+.v210_261 {
+  width: 8px;
+  height: 4px;
+  background: url("../images/v210_261.png");
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 90px;
+  border: 1.5px solid rgba(98,50,0,1);
+  transform: rotate(-89deg);
+}
+.v210_262 {
+  width: 30px;
+  height: 30px;
+  background: rgba(98,50,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 1200px;
+}
+.v210_263 {
+  width: 40px;
+  height: 30px;
+  background: rgba(98,50,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 1257px;
+}
+.v210_264 {
+  width: 100%;
+  height: 157px;
+  background: url("../images/v210_264.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 867px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_265 {
+  width: 100%;
+  height: 157px;
+  background: rgba(254,173,17,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_266 {
+  width: 778px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 114px;
+  left: 342px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v210_267 {
+  width: 145px;
+  height: 60px;
+  background: url("../images/v210_267.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 333px;
+  overflow: hidden;
+}
+.v210_268 {
+  width: 171px;
+  height: 51px;
+  background: url("../images/v210_268.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 342px;
+  overflow: hidden;
+}
+.v210_269 {
+  width: 299px;
+  height: 51px;
+  background: url("../images/v210_269.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 800px;
+  overflow: hidden;
+}
+.v210_270 {
+  width: 225px;
+  height: 37px;
+  background: url("../images/v210_270.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 164px;
+  left: 159px;
+  overflow: hidden;
+}
+.v210_271 {
+  width: 225px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Bold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.v210_273 {
+  width: 400px;
+  height: 267px;
+  background: url("../images/v210_273.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 179px;
+  left: 834px;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+  border-bottom-left-radius: 19px;
+  border-bottom-right-radius: 19px;
+  overflow: hidden;
+}
+.v210_274 {
+  width: 646px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 216px;
+  left: 158px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: justified;
+}
+.v210_275 {
+  width: 646px;
+  height: 303px;
+  background: url("../images/v210_275.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 480px;
+  left: 588px;
+  overflow: hidden;
+}
+.v210_276 {
+  width: 276px;
+  height: 37px;
+  background: url("../images/v210_276.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v210_277 {
+  width: 276px;
+  color: rgba(98,50,0,1);
+  position: absolute;
+  top: 15px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Bold;
+  font-size: 21px;
+  opacity: 1;
+  text-align: left;
+}
+.name {
+  color: #fff;
+}
+.v210_279 {
+  width: 646px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 52px;
+  left: 0px;
+  font-family: Alegreya;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: justified;
+}
+.v210_280 {
+  width: 400px;
+  height: 267px;
+  background: url("../images/v210_280.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 490px;
+  left: 158px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  overflow: hidden;
+}
+.v210_281 {
+  width: 252px;
+  height: 99px;
+  background: url("../images/v210_281.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 882px;
+  left: 883px;
+  overflow: hidden;
+}
+</style>
